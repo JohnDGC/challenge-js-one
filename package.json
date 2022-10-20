@@ -1,0 +1,25 @@
+{
+  "name": "challenge-js-one",
+  "version": "1.0.0",
+  "description": "Reto 1 con JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnDGC/challenge-js-one.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "JohnDGC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnDGC/challenge-js-one/issues"
+  },
+  "homepage": "https://github.com/JohnDGC/challenge-js-one#readme",
+  "dependencies": {
+    "scanf": "^1.1.2"
+  }
+}
